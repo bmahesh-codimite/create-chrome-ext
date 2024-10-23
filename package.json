@@ -1,0 +1,11 @@
+{
+  "name": "create-chrome-ext",
+  "version": "1.0.0",
+  "description": "Create chrome extension CLI tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bmahesh-codimite",
+  "license": "ISC"
+}
